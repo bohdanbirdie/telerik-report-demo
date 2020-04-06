@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/telerik-report-demo/precache-manifest.b528450ab173a67126eeb1935d244038.js"
+  "/telerik-report-demo/precache-manifest.2beca1aa0a863a126f266ad8ec4536f3.js"
 );
 
 workbox.clientsClaim();
