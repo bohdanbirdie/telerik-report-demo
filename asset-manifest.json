@@ -1,13 +1,13 @@
 {
-  "main.css": "/telerik-report-demo/static/css/main.9f9fe371.chunk.css",
-  "main.js": "/telerik-report-demo/static/js/main.d7a99106.chunk.js",
-  "main.js.map": "/telerik-report-demo/static/js/main.d7a99106.chunk.js.map",
-  "static/js/1.63fb5b41.chunk.js": "/telerik-report-demo/static/js/1.63fb5b41.chunk.js",
-  "static/js/1.63fb5b41.chunk.js.map": "/telerik-report-demo/static/js/1.63fb5b41.chunk.js.map",
+  "main.css": "/telerik-report-demo/static/css/main.6b65e6bc.chunk.css",
+  "main.js": "/telerik-report-demo/static/js/main.8d6eba45.chunk.js",
+  "main.js.map": "/telerik-report-demo/static/js/main.8d6eba45.chunk.js.map",
+  "static/js/1.c03fdd1f.chunk.js": "/telerik-report-demo/static/js/1.c03fdd1f.chunk.js",
+  "static/js/1.c03fdd1f.chunk.js.map": "/telerik-report-demo/static/js/1.c03fdd1f.chunk.js.map",
   "runtime~main.js": "/telerik-report-demo/static/js/runtime~main.17c811f7.js",
   "runtime~main.js.map": "/telerik-report-demo/static/js/runtime~main.17c811f7.js.map",
-  "static/css/main.9f9fe371.chunk.css.map": "/telerik-report-demo/static/css/main.9f9fe371.chunk.css.map",
+  "static/css/main.6b65e6bc.chunk.css.map": "/telerik-report-demo/static/css/main.6b65e6bc.chunk.css.map",
   "index.html": "/telerik-report-demo/index.html",
-  "precache-manifest.4060c2fbc55e0695d754aaeec788f6ef.js": "/telerik-report-demo/precache-manifest.4060c2fbc55e0695d754aaeec788f6ef.js",
+  "precache-manifest.b528450ab173a67126eeb1935d244038.js": "/telerik-report-demo/precache-manifest.b528450ab173a67126eeb1935d244038.js",
   "service-worker.js": "/telerik-report-demo/service-worker.js"
 }
