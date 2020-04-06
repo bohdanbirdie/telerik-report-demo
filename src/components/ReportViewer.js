@@ -2,6 +2,7 @@ import React, { Component } from "react";
 
 export default class ReportViewer extends Component {
   componentDidMount() {
+
     window.jQuery("#reportViewer1").telerik_ReportViewer({
       serviceUrl: "https://demos.telerik.com/reporting/api/reports/",
       reportSource: {
