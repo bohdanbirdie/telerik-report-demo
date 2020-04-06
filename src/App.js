@@ -6,19 +6,20 @@ import ReportViewer from "./components/ReportViewer";
 import ReportDesigner from "./components/ReportDesigner";
 
 class App extends Component {
+  renderLink(child) {
+    return <div style={{ padding: '5px', margin: '5px', backgroundColor: 'rgba(0,0,0,0.1)'}}>
+      {child}
+    </div>
+  }
+
   render() {
     return (
       <HashRouter>
         <div className="App">
-          <nav>
-            <ul>
-              <li>
-                <Link to="/">Report viewer</Link>
-              </li>
-              <li>
-                <Link to="/designer">Report Designer</Link>
-              </li>
-            </ul>
+          <nav style={{ display: 'flex'}}>
+          {this.renderLink(<span>Navigation:</span>)}
+          {this.renderLink(<Link to="/">Report viewer</Link>)}
+          {this.renderLink(<Link to="/designer">Report Designer (Loading is very slow)</Link>)}
           </nav>
           <Switch>
             <Route path="/designer" exact component={ReportDesigner} />
