@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/telerik-report-demo/static/css/main.9f9fe371.chunk.css"
   },
   {
-    "revision": "41bbc483270d0848c66f1832ed12e661",
+    "revision": "fb78a5aace710c5c753806ffa782cc56",
     "url": "/telerik-report-demo/index.html"
   }
 ];
